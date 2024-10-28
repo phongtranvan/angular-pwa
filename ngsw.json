@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1730125129600,
+  "timestamp": 1730127782749,
   "index": "/angular-pwa/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/angular-pwa/favicon.ico",
         "/angular-pwa/firebase-messaging-sw-angular-pwa.js",
         "/angular-pwa/index.html",
-        "/angular-pwa/main-A2JJLKJT.js",
+        "/angular-pwa/main-IYFUQ2GQ.js",
         "/angular-pwa/polyfills-FFHMD2TL.js",
         "/angular-pwa/styles-5INURTSO.css"
       ],
@@ -35,8 +35,8 @@
   "hashTable": {
     "/angular-pwa/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/angular-pwa/firebase-messaging-sw-angular-pwa.js": "af534ede9b4feb61dfb0148dea233331abd32b76",
-    "/angular-pwa/index.html": "fa4f714c45d2f2e996d5fbb8c1edd9cc28fb8160",
-    "/angular-pwa/main-A2JJLKJT.js": "534a1e3735cbd37ea1276db1fda1896d6a050daf",
+    "/angular-pwa/index.html": "0d3bbd9e9bf283fdb300694bc6eda96160ab6975",
+    "/angular-pwa/main-IYFUQ2GQ.js": "499a6afc0a2c0b835ff12e7983b3d76a7235395c",
     "/angular-pwa/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/angular-pwa/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
