@@ -1,0 +1,62 @@
+{
+  "configVersion": 1,
+  "timestamp": 1730100810441,
+  "index": "https://phongtranvan.github.io/angular-pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js",
+        "https://phongtranvan.github.io/angular-pwa/index.html",
+        "https://phongtranvan.github.io/angular-pwa/main-JSNFN5J7.js",
+        "https://phongtranvan.github.io/angular-pwa/manifest.webmanifest",
+        "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js",
+        "https://phongtranvan.github.io/angular-pwa/styles-5INURTSO.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js": "af534ede9b4feb61dfb0148dea233331abd32b76",
+    "https://phongtranvan.github.io/angular-pwa/index.html": "a297ae33b04f2017d8272175967c5f4fcb36ba42",
+    "https://phongtranvan.github.io/angular-pwa/main-JSNFN5J7.js": "bbc6a4c59ca0aff342128345b2a4fe261a44dd89",
+    "https://phongtranvan.github.io/angular-pwa/manifest.webmanifest": "dea4405f36fd5997d66eed3b69e8adc95163ec63",
+    "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "https://phongtranvan.github.io/angular-pwa/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
