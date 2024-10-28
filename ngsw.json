@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1730127782749,
-  "index": "/angular-pwa/index.html",
+  "timestamp": 1730128490905,
+  "index": "https://phongtranvan.github.io/angular-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,12 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/angular-pwa/favicon.ico",
-        "/angular-pwa/firebase-messaging-sw-angular-pwa.js",
-        "/angular-pwa/index.html",
-        "/angular-pwa/main-IYFUQ2GQ.js",
-        "/angular-pwa/polyfills-FFHMD2TL.js",
-        "/angular-pwa/styles-5INURTSO.css"
+        "https://phongtranvan.github.io/angular-pwa/favicon.ico",
+        "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js",
+        "https://phongtranvan.github.io/angular-pwa/index.html",
+        "https://phongtranvan.github.io/angular-pwa/main-AS22N6SJ.js",
+        "https://phongtranvan.github.io/angular-pwa/manifest.webmanifest",
+        "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js",
+        "https://phongtranvan.github.io/angular-pwa/styles-5INURTSO.css"
       ],
       "patterns": []
     },
@@ -33,12 +34,13 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/angular-pwa/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/angular-pwa/firebase-messaging-sw-angular-pwa.js": "af534ede9b4feb61dfb0148dea233331abd32b76",
-    "/angular-pwa/index.html": "0d3bbd9e9bf283fdb300694bc6eda96160ab6975",
-    "/angular-pwa/main-IYFUQ2GQ.js": "499a6afc0a2c0b835ff12e7983b3d76a7235395c",
-    "/angular-pwa/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "/angular-pwa/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://phongtranvan.github.io/angular-pwa/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js": "af534ede9b4feb61dfb0148dea233331abd32b76",
+    "https://phongtranvan.github.io/angular-pwa/index.html": "49509e55c547326913327b4b1c56ef7093e71955",
+    "https://phongtranvan.github.io/angular-pwa/main-AS22N6SJ.js": "bf5a59cb308bedc22a155c24edb6a9ba97d45bf4",
+    "https://phongtranvan.github.io/angular-pwa/manifest.webmanifest": "dea4405f36fd5997d66eed3b69e8adc95163ec63",
+    "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "https://phongtranvan.github.io/angular-pwa/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
