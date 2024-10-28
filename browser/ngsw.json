@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1730107822920,
-  "index": "/index.html",
+  "timestamp": 1730108161432,
+  "index": "https://phongtranvan.github.io/angular-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,12 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/firebase-messaging-sw.js",
-        "/index.html",
-        "/main-NUL4EQUA.js",
-        "/polyfills-FFHMD2TL.js",
-        "/styles-5INURTSO.css"
+        "https://phongtranvan.github.io/angular-pwa/favicon.ico",
+        "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js",
+        "https://phongtranvan.github.io/angular-pwa/index.html",
+        "https://phongtranvan.github.io/angular-pwa/main-NUL4EQUA.js",
+        "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js",
+        "https://phongtranvan.github.io/angular-pwa/styles-5INURTSO.css"
       ],
       "patterns": []
     },
@@ -33,12 +33,12 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/firebase-messaging-sw.js": "af534ede9b4feb61dfb0148dea233331abd32b76",
-    "/index.html": "8d0d9efad90d7ad00ffa20614dafba3e009079c1",
-    "/main-NUL4EQUA.js": "60333653ac42f9bbc877221dec3e8818796742b6",
-    "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://phongtranvan.github.io/angular-pwa/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js": "af534ede9b4feb61dfb0148dea233331abd32b76",
+    "https://phongtranvan.github.io/angular-pwa/index.html": "f719661313d9698ff0e34d3f19226504f9a1f012",
+    "https://phongtranvan.github.io/angular-pwa/main-NUL4EQUA.js": "60333653ac42f9bbc877221dec3e8818796742b6",
+    "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "https://phongtranvan.github.io/angular-pwa/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
