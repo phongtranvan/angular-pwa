@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1730111769610,
-  "index": "C:/Program Files/Git/angular-pwa/index.html",
+  "timestamp": 1730111794964,
+  "index": "https://phongtranvan.github.io/angular-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,12 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "C:/Program Files/Git/angular-pwa/favicon.ico",
-        "C:/Program Files/Git/angular-pwa/firebase-messaging-sw.js",
-        "C:/Program Files/Git/angular-pwa/index.html",
-        "C:/Program Files/Git/angular-pwa/main-VDBE5IE6.js",
-        "C:/Program Files/Git/angular-pwa/polyfills-FFHMD2TL.js",
-        "C:/Program Files/Git/angular-pwa/styles-5INURTSO.css"
+        "https://phongtranvan.github.io/angular-pwa/favicon.ico",
+        "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js",
+        "https://phongtranvan.github.io/angular-pwa/index.html",
+        "https://phongtranvan.github.io/angular-pwa/main-VDBE5IE6.js",
+        "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js",
+        "https://phongtranvan.github.io/angular-pwa/styles-5INURTSO.css"
       ],
       "patterns": []
     },
@@ -33,12 +33,12 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "C:/Program Files/Git/angular-pwa/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "C:/Program Files/Git/angular-pwa/firebase-messaging-sw.js": "af534ede9b4feb61dfb0148dea233331abd32b76",
-    "C:/Program Files/Git/angular-pwa/index.html": "686f95e70a2afea07f07d1f5c90081f19340e691",
-    "C:/Program Files/Git/angular-pwa/main-VDBE5IE6.js": "268999f183cb440036be22e16a91aec0f8c5d9ac",
-    "C:/Program Files/Git/angular-pwa/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "C:/Program Files/Git/angular-pwa/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://phongtranvan.github.io/angular-pwa/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js": "af534ede9b4feb61dfb0148dea233331abd32b76",
+    "https://phongtranvan.github.io/angular-pwa/index.html": "a9371f7dedbef67590243d137eb431a0af3216a9",
+    "https://phongtranvan.github.io/angular-pwa/main-VDBE5IE6.js": "268999f183cb440036be22e16a91aec0f8c5d9ac",
+    "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "https://phongtranvan.github.io/angular-pwa/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
