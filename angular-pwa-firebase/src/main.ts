@@ -8,7 +8,7 @@ import { provideServiceWorker, SwUpdate } from '@angular/service-worker';
 import { environment } from './environments/environment';
 
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/firebase-messaging-sw.js')
+  navigator.serviceWorker.register('/angular-pwa/firebase-messaging-sw.js')
     .then((registration) => {
       console.log('Service Worker registered with scope:', registration.scope);
     }).catch((error) => {
