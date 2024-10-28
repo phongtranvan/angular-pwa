@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1730106119831,
+  "timestamp": 1730106228424,
   "index": "https://phongtranvan.github.io/angular-pwa/index.html",
   "assetGroups": [
     {
@@ -11,6 +11,8 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://phongtranvan.github.io/angular-pwa/favicon.ico",
+        "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js",
         "https://phongtranvan.github.io/angular-pwa/index.html",
         "https://phongtranvan.github.io/angular-pwa/main-NUL4EQUA.js",
         "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js",
@@ -31,6 +33,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "https://phongtranvan.github.io/angular-pwa/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js": "af534ede9b4feb61dfb0148dea233331abd32b76",
     "https://phongtranvan.github.io/angular-pwa/index.html": "f719661313d9698ff0e34d3f19226504f9a1f012",
     "https://phongtranvan.github.io/angular-pwa/main-NUL4EQUA.js": "60333653ac42f9bbc877221dec3e8818796742b6",
     "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
