@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1730110284033,
+  "timestamp": 1730110350188,
   "index": "https://phongtranvan.github.io/angular-pwa/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "https://phongtranvan.github.io/angular-pwa/favicon.ico",
         "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js",
         "https://phongtranvan.github.io/angular-pwa/index.html",
-        "https://phongtranvan.github.io/angular-pwa/main-NWQXUTFH.js",
+        "https://phongtranvan.github.io/angular-pwa/main-UG37GLGG.js",
         "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js",
         "https://phongtranvan.github.io/angular-pwa/styles-5INURTSO.css"
       ],
@@ -35,8 +35,8 @@
   "hashTable": {
     "https://phongtranvan.github.io/angular-pwa/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js": "af534ede9b4feb61dfb0148dea233331abd32b76",
-    "https://phongtranvan.github.io/angular-pwa/index.html": "8ea2cb8b9742b7746fd099a8eb9ea95ae77b13e6",
-    "https://phongtranvan.github.io/angular-pwa/main-NWQXUTFH.js": "3b5a1c02149d596f293cc092cab45c61addd1974",
+    "https://phongtranvan.github.io/angular-pwa/index.html": "fd7cdaf8ed7c56ff2f920d0bcd60c9548258c2fb",
+    "https://phongtranvan.github.io/angular-pwa/main-UG37GLGG.js": "b20ccb9d286acff8b81cdb72026940de6cafdc42",
     "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "https://phongtranvan.github.io/angular-pwa/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
