@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1730111706818,
-  "index": "https://phongtranvan.github.io/angular-pwa/index.html",
+  "timestamp": 1730111769610,
+  "index": "C:/Program Files/Git/angular-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,12 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://phongtranvan.github.io/angular-pwa/favicon.ico",
-        "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js",
-        "https://phongtranvan.github.io/angular-pwa/index.html",
-        "https://phongtranvan.github.io/angular-pwa/main-6PNNUBWV.js",
-        "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js",
-        "https://phongtranvan.github.io/angular-pwa/styles-5INURTSO.css"
+        "C:/Program Files/Git/angular-pwa/favicon.ico",
+        "C:/Program Files/Git/angular-pwa/firebase-messaging-sw.js",
+        "C:/Program Files/Git/angular-pwa/index.html",
+        "C:/Program Files/Git/angular-pwa/main-VDBE5IE6.js",
+        "C:/Program Files/Git/angular-pwa/polyfills-FFHMD2TL.js",
+        "C:/Program Files/Git/angular-pwa/styles-5INURTSO.css"
       ],
       "patterns": []
     },
@@ -33,12 +33,12 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://phongtranvan.github.io/angular-pwa/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://phongtranvan.github.io/angular-pwa/firebase-messaging-sw.js": "af534ede9b4feb61dfb0148dea233331abd32b76",
-    "https://phongtranvan.github.io/angular-pwa/index.html": "feddbf9114769081cfed1fc0c1a30a08489631cb",
-    "https://phongtranvan.github.io/angular-pwa/main-6PNNUBWV.js": "540f9023a21abbd54396d641f60452f1cb7e147d",
-    "https://phongtranvan.github.io/angular-pwa/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "https://phongtranvan.github.io/angular-pwa/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "C:/Program Files/Git/angular-pwa/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "C:/Program Files/Git/angular-pwa/firebase-messaging-sw.js": "af534ede9b4feb61dfb0148dea233331abd32b76",
+    "C:/Program Files/Git/angular-pwa/index.html": "686f95e70a2afea07f07d1f5c90081f19340e691",
+    "C:/Program Files/Git/angular-pwa/main-VDBE5IE6.js": "268999f183cb440036be22e16a91aec0f8c5d9ac",
+    "C:/Program Files/Git/angular-pwa/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "C:/Program Files/Git/angular-pwa/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
